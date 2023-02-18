@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Gustavo Fring",
+      "email": "betterringfring@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Nacho Varga",
+      "email": "nachovarga@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "James McGill",
+      "email": "jimmy@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Walter White",
+      "email": "walter@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Mike Ermanthraut",
+      "email": "mike@gmail.com",
+      "id": 10
+    }
+  ]
+}
